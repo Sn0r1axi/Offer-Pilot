@@ -1,0 +1,15 @@
+llama-index>=0.10.0
+crawl4ai
+streamlit
+neo4j
+fastapi
+pydantic
+uvicorn
+python-dotenv
+llama-index-graph-stores-neo4j
+llama-index-vector-stores-qdrant
+qdrant-client
+llama-index-embeddings-fastembed
+llama-index-llms-ollama
+fastembed
+llama-index-llms-gemini
