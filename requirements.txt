@@ -13,3 +13,4 @@ llama-index-embeddings-fastembed
 llama-index-llms-ollama
 fastembed
 llama-index-llms-gemini
+ragas
